@@ -25,8 +25,8 @@ function App() {
   return (
     <IonApp>
       <IonHeader>
-        <IonToolbar>
-          <IonTitle>Biorhythms</IonTitle>
+        <IonToolbar color="primary">
+          <IonTitle>Biorhythms Calculator</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent className="ion-padding">
